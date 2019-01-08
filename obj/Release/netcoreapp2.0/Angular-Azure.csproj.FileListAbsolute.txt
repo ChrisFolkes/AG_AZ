@@ -1,0 +1,11 @@
+C:\Users\cmfol\Angular-Azure\bin\Release\netcoreapp2.0\Angular-Azure.deps.json
+C:\Users\cmfol\Angular-Azure\bin\Release\netcoreapp2.0\Angular-Azure.runtimeconfig.json
+C:\Users\cmfol\Angular-Azure\bin\Release\netcoreapp2.0\Angular-Azure.runtimeconfig.dev.json
+C:\Users\cmfol\Angular-Azure\bin\Release\netcoreapp2.0\Angular-Azure.dll
+C:\Users\cmfol\Angular-Azure\bin\Release\netcoreapp2.0\Angular-Azure.pdb
+C:\Users\cmfol\Angular-Azure\obj\Release\netcoreapp2.0\Angular-Azure.csproj.CoreCompileInputs.cache
+C:\Users\cmfol\Angular-Azure\obj\Release\netcoreapp2.0\Angular-Azure.AssemblyInfoInputs.cache
+C:\Users\cmfol\Angular-Azure\obj\Release\netcoreapp2.0\Angular-Azure.AssemblyInfo.cs
+C:\Users\cmfol\Angular-Azure\obj\Release\netcoreapp2.0\Angular-Azure.dll
+C:\Users\cmfol\Angular-Azure\obj\Release\netcoreapp2.0\Angular-Azure.pdb
+C:\Users\cmfol\Angular-Azure\obj\Release\netcoreapp2.0\Angular-Azure.csprojAssemblyReference.cache

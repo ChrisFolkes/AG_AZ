@@ -15,6 +15,7 @@ namespace Angular_Azure
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+            //Thought this was a change
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
